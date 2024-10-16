@@ -1,6 +1,5 @@
 Hold up cooking in progress
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=protonumber14&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=protonumber14&theme=radical&hide_border=true&border_radius=5&count_private=true" alt="GitHub Streak" />
 </a>
